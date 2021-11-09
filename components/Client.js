@@ -2,7 +2,7 @@ import React, { useEffect } from 'react';
 import { motion, useAnimation } from 'framer-motion';
 import { useInView } from 'react-intersection-observer';
 import Image from 'next/image';
-import ClientIMG from '../assets/image2.jpg';
+import ClientIMG from '../assets/image2.JPG';
 import Slider from 'react-slick';
 
 const variants = {
