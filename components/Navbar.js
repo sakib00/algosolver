@@ -75,7 +75,7 @@ export const Navbar = () => {
   return (
     <>
       <div
-        className={`fixed z-10 py-5 flex justify-between items-center w-full transition-all duration-300 ${
+        className={`fixed z-20 py-5 flex justify-between items-center w-full transition-all duration-300 ${
           scrolled
             ? 'bg-white shadow-lg px-12 lg:px-32 text-primary-dark'
             : 'px-20 text-white'

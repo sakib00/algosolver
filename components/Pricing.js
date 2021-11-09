@@ -49,7 +49,7 @@ export const Pricing = () => {
       className='py-10 lg:py-20'
     >
       <div className='container mx-auto flex flex-col justify-center items-center'>
-        <h1 className='font-extrabold text-3xl lg:text-5xl text-primary-dark my-10'>
+        <h1 className='font-extrabold text-3xl lg:text-5xl text-primary-dark mb-10'>
           Pricing
         </h1>
         <p className='my-4 text-primary-dark text-xs lg:text-sm mx-20 lg:mx-72 text-center'>
